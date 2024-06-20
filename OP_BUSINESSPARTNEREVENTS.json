@@ -40,6 +40,9 @@
                         "type": {
                             "const": "sap.s4.beh.businesspartner.v1.BusinessPartner.Changed.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -63,6 +66,9 @@
                         "type": {
                             "const": "sap.s4.beh.businesspartner.v1.BusinessPartner.Created.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -84,8 +90,7 @@
                 "properties": {
                     "BusinessPartner": {
                         "description": "# Definition\r\n\r\nKey identifying a **business partner** in the SAP system. The key is unique within a client.",
-                        "type": "string",
-                        "maxLength": 10
+                        "type": "string"
                     }
                 }
             },
@@ -94,8 +99,7 @@
                 "properties": {
                     "BusinessPartner": {
                         "description": "# Definition\r\n\r\nKey identifying a **business partner** in the SAP system. The key is unique within a client.",
-                        "type": "string",
-                        "maxLength": 10
+                        "type": "string"
                     }
                 }
             }
