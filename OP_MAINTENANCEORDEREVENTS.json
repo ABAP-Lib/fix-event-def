@@ -150,6 +150,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.Approved.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -172,6 +175,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.Closed.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -196,6 +202,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.OpPhseCtrlActvtd.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -218,6 +227,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.OpPhseCtrlDactvtd.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -242,6 +254,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.OrdPhseCtrlActvtd.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -264,6 +279,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.OrdPhseCtrlDactvtd.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -288,6 +306,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.Rejected.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -310,6 +331,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetReadyForExec.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -334,6 +358,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToDeletnFlagged.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -356,6 +383,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToInPlanning.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -380,6 +410,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToInPreparation.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -402,6 +435,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToMainWorkCmplt.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -426,6 +462,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToRdyForSchedg.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -448,6 +487,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToTechCompleted.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -472,6 +514,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToWorkDone.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -494,6 +539,9 @@
                     "properties": {
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToWorkStarted.v1"
+                        },
+                        "source": {
+                            "const": "s4"
                         },
                         "datacontenttype": {
                             "const": "application/json"
@@ -518,6 +566,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SetToWrkNotPerfrmd.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -541,6 +592,9 @@
                         "type": {
                             "const": "sap.s4.beh.maintenanceorder.v1.MaintenanceOrder.SubmdForApproval.v1"
                         },
+                        "source": {
+                            "const": "s4"
+                        },
                         "datacontenttype": {
                             "const": "application/json"
                         }
@@ -562,13 +616,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -577,13 +629,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -592,51 +642,41 @@
                 "properties": {
                     "EAMProcessPhaseCodeDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "EAMProcessSubPhaseCodeDesc": {
-                        "type": "string",
-                        "maxLength": 40
+                        "type": "string"
                     },
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderOperation": {
                         "description": "# Definition\r\n\r\n**Production Planning**\r\n\r\nDetermines in which order the **operations** of a **sequence** are carried out.\r\n\r\n**Project System**\r\n\r\nNumber that identifies an activity.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenanceOrderSubOperation": {
                         "description": "# Definition\r\n\r\nDetermines in which order the **sub-operations** of an **operation** are listed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControl": {
                         "description": "# Definition\r\n\r\nIndicates the key that differentiates phase control codes according to their assignment to order types and entity types.\r\n\r\n# Use\r\n\r\nPhase control codes help you define the user status in a maintenance order or an order operation. User status defines how the order or the order operation is processed.\r\n\r\n# Example\r\n\r\nYou can define phase control code for an order to ensure that the order is not released. You can resolve a phase control code only if you have the required authorization key. The authorization key will help you release the order.\r\n\r\n# \r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControlText": {
                         "description": "# Definition\r\n\r\nDescribes the phase control code.\r\n\r\n# Use\r\n\r\nYou can enter details about the phase control code such as purpose, use, and so on.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 30
+                        "type": "string"
                     },
                     "MaintObjPhaseControlStateDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeResetBy": {
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeSetBy": {
                         "description": "# Definition\r\n\r\nIndicates the user who defined the phase control code.\r\n\r\n# Use\r\n\r\nYou can view information about the user who defined the phase control code for a maintenance order or operation.\r\n\r\n# Example\r\n\r\nSAP USER",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhseCtrlCodeRsetDteTme": {
                         "description": "# Definition\r\n\r\nThe time when the phase control code was deactivated (UTC time stamp).\r\n\r\n# Example\r\n",
@@ -650,23 +690,19 @@
                     },
                     "MaintOrdProcessPhaseCode": {
                         "description": "# Definition\r\n\r\nA distinct stage in the end-to-end process of a maintenance work. These are fixed values that are used mainly for reporting and analytics. A phase is automatically determined for a notification, order, and operation when the system status is changed.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintOrdProcessSubPhaseCode": {
                         "description": "# Example\r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnCode": {
                         "description": "# Definition\r\n\r\nIndicates the key defined for the maintenance phase of a phase control.\r\n\r\n# Use\r\n\r\nWhen you define a phase control code, you can use the following controls:\r\n - Activate: When you define a phase control code for the Activate phase and subphase of a maintenance order or an order operation, the phase control code is active when the order or order operation reaches the phase and subphase.\r\n - Block: When you define phase control code for blocking phase and subphase of a maintenance order or an order operation, the phase and subphase are blocked. When you block a phase or subphase, the maintenance order or order operation is not processed during that subphase.\r\n\r\n**Maintenance phase** is derived with from the combination of process phase and process subphase.\r\n\r\n# Example\r\n - Activate:\r\n\r\nProcess Phase -Maintenance Order Execution\r\n\r\nProcess Subphase - Ready for Execution\r\n - Block:\r\n\r\n|Process Phase - Maintenance Order Preparation\r\n\r\n|Process Subphase - In Preparation\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     }
                 }
             },
@@ -675,51 +711,41 @@
                 "properties": {
                     "EAMProcessPhaseCodeDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "EAMProcessSubPhaseCodeDesc": {
-                        "type": "string",
-                        "maxLength": 40
+                        "type": "string"
                     },
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderOperation": {
                         "description": "# Definition\r\n\r\n**Production Planning**\r\n\r\nDetermines in which order the **operations** of a **sequence** are carried out.\r\n\r\n**Project System**\r\n\r\nNumber that identifies an activity.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenanceOrderSubOperation": {
                         "description": "# Definition\r\n\r\nDetermines in which order the **sub-operations** of an **operation** are listed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControl": {
                         "description": "# Definition\r\n\r\nIndicates the key that differentiates phase control codes according to their assignment to order types and entity types.\r\n\r\n# Use\r\n\r\nPhase control codes help you define the user status in a maintenance order or an order operation. User status defines how the order or the order operation is processed.\r\n\r\n# Example\r\n\r\nYou can define phase control code for an order to ensure that the order is not released. You can resolve a phase control code only if you have the required authorization key. The authorization key will help you release the order.\r\n\r\n# \r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControlText": {
                         "description": "# Definition\r\n\r\nDescribes the phase control code.\r\n\r\n# Use\r\n\r\nYou can enter details about the phase control code such as purpose, use, and so on.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 30
+                        "type": "string"
                     },
                     "MaintObjPhaseControlStateDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeResetBy": {
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeSetBy": {
                         "description": "# Definition\r\n\r\nIndicates the user who defined the phase control code.\r\n\r\n# Use\r\n\r\nYou can view information about the user who defined the phase control code for a maintenance order or operation.\r\n\r\n# Example\r\n\r\nSAP USER",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhseCtrlCodeRsetDteTme": {
                         "description": "# Definition\r\n\r\nThe time when the phase control code was deactivated (UTC time stamp).\r\n\r\n# Example\r\n",
@@ -733,23 +759,19 @@
                     },
                     "MaintOrdProcessPhaseCode": {
                         "description": "# Definition\r\n\r\nA distinct stage in the end-to-end process of a maintenance work. These are fixed values that are used mainly for reporting and analytics. A phase is automatically determined for a notification, order, and operation when the system status is changed.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintOrdProcessSubPhaseCode": {
                         "description": "# Example\r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnCode": {
                         "description": "# Definition\r\n\r\nIndicates the key defined for the maintenance phase of a phase control.\r\n\r\n# Use\r\n\r\nWhen you define a phase control code, you can use the following controls:\r\n - Activate: When you define a phase control code for the Activate phase and subphase of a maintenance order or an order operation, the phase control code is active when the order or order operation reaches the phase and subphase.\r\n - Block: When you define phase control code for blocking phase and subphase of a maintenance order or an order operation, the phase and subphase are blocked. When you block a phase or subphase, the maintenance order or order operation is not processed during that subphase.\r\n\r\n**Maintenance phase** is derived with from the combination of process phase and process subphase.\r\n\r\n# Example\r\n - Activate:\r\n\r\nProcess Phase -Maintenance Order Execution\r\n\r\nProcess Subphase - Ready for Execution\r\n - Block:\r\n\r\n|Process Phase - Maintenance Order Preparation\r\n\r\n|Process Subphase - In Preparation\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     }
                 }
             },
@@ -758,41 +780,33 @@
                 "properties": {
                     "EAMProcessPhaseCodeDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "EAMProcessSubPhaseCodeDesc": {
-                        "type": "string",
-                        "maxLength": 40
+                        "type": "string"
                     },
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenancePhaseControl": {
                         "description": "# Definition\r\n\r\nIndicates the key that differentiates phase control codes according to their assignment to order types and entity types.\r\n\r\n# Use\r\n\r\nPhase control codes help you define the user status in a maintenance order or an order operation. User status defines how the order or the order operation is processed.\r\n\r\n# Example\r\n\r\nYou can define phase control code for an order to ensure that the order is not released. You can resolve a phase control code only if you have the required authorization key. The authorization key will help you release the order.\r\n\r\n# \r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControlText": {
                         "description": "# Definition\r\n\r\nDescribes the phase control code.\r\n\r\n# Use\r\n\r\nYou can enter details about the phase control code such as purpose, use, and so on.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 30
+                        "type": "string"
                     },
                     "MaintObjPhaseControlStateDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeResetBy": {
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeSetBy": {
                         "description": "# Definition\r\n\r\nIndicates the user who defined the phase control code.\r\n\r\n# Use\r\n\r\nYou can view information about the user who defined the phase control code for a maintenance order or operation.\r\n\r\n# Example\r\n\r\nSAP USER",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhseCtrlCodeRsetDteTme": {
                         "description": "# Definition\r\n\r\nThe time when the phase control code was deactivated (UTC time stamp).\r\n\r\n# Example\r\n",
@@ -806,23 +820,19 @@
                     },
                     "MaintOrdProcessPhaseCode": {
                         "description": "# Definition\r\n\r\nA distinct stage in the end-to-end process of a maintenance work. These are fixed values that are used mainly for reporting and analytics. A phase is automatically determined for a notification, order, and operation when the system status is changed.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintOrdProcessSubPhaseCode": {
                         "description": "# Example\r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnCode": {
                         "description": "# Definition\r\n\r\nIndicates the key defined for the maintenance phase of a phase control.\r\n\r\n# Use\r\n\r\nWhen you define a phase control code, you can use the following controls:\r\n - Activate: When you define a phase control code for the Activate phase and subphase of a maintenance order or an order operation, the phase control code is active when the order or order operation reaches the phase and subphase.\r\n - Block: When you define phase control code for blocking phase and subphase of a maintenance order or an order operation, the phase and subphase are blocked. When you block a phase or subphase, the maintenance order or order operation is not processed during that subphase.\r\n\r\n**Maintenance phase** is derived with from the combination of process phase and process subphase.\r\n\r\n# Example\r\n - Activate:\r\n\r\nProcess Phase -Maintenance Order Execution\r\n\r\nProcess Subphase - Ready for Execution\r\n - Block:\r\n\r\n|Process Phase - Maintenance Order Preparation\r\n\r\n|Process Subphase - In Preparation\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     }
                 }
             },
@@ -831,41 +841,33 @@
                 "properties": {
                     "EAMProcessPhaseCodeDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "EAMProcessSubPhaseCodeDesc": {
-                        "type": "string",
-                        "maxLength": 40
+                        "type": "string"
                     },
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenancePhaseControl": {
                         "description": "# Definition\r\n\r\nIndicates the key that differentiates phase control codes according to their assignment to order types and entity types.\r\n\r\n# Use\r\n\r\nPhase control codes help you define the user status in a maintenance order or an order operation. User status defines how the order or the order operation is processed.\r\n\r\n# Example\r\n\r\nYou can define phase control code for an order to ensure that the order is not released. You can resolve a phase control code only if you have the required authorization key. The authorization key will help you release the order.\r\n\r\n# \r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintenancePhaseControlText": {
                         "description": "# Definition\r\n\r\nDescribes the phase control code.\r\n\r\n# Use\r\n\r\nYou can enter details about the phase control code such as purpose, use, and so on.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 30
+                        "type": "string"
                     },
                     "MaintObjPhaseControlStateDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeResetBy": {
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhaseCtrlCodeSetBy": {
                         "description": "# Definition\r\n\r\nIndicates the user who defined the phase control code.\r\n\r\n# Use\r\n\r\nYou can view information about the user who defined the phase control code for a maintenance order or operation.\r\n\r\n# Example\r\n\r\nSAP USER",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintObjPhseCtrlCodeRsetDteTme": {
                         "description": "# Definition\r\n\r\nThe time when the phase control code was deactivated (UTC time stamp).\r\n\r\n# Example\r\n",
@@ -879,23 +881,19 @@
                     },
                     "MaintOrdProcessPhaseCode": {
                         "description": "# Definition\r\n\r\nA distinct stage in the end-to-end process of a maintenance work. These are fixed values that are used mainly for reporting and analytics. A phase is automatically determined for a notification, order, and operation when the system status is changed.\r\n\r\n# Example\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintOrdProcessSubPhaseCode": {
                         "description": "# Example\r\n",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnCode": {
                         "description": "# Definition\r\n\r\nIndicates the key defined for the maintenance phase of a phase control.\r\n\r\n# Use\r\n\r\nWhen you define a phase control code, you can use the following controls:\r\n - Activate: When you define a phase control code for the Activate phase and subphase of a maintenance order or an order operation, the phase control code is active when the order or order operation reaches the phase and subphase.\r\n - Block: When you define phase control code for blocking phase and subphase of a maintenance order or an order operation, the phase and subphase are blocked. When you block a phase or subphase, the maintenance order or order operation is not processed during that subphase.\r\n\r\n**Maintenance phase** is derived with from the combination of process phase and process subphase.\r\n\r\n# Example\r\n - Activate:\r\n\r\nProcess Phase -Maintenance Order Execution\r\n\r\nProcess Subphase - Ready for Execution\r\n - Block:\r\n\r\n|Process Phase - Maintenance Order Preparation\r\n\r\n|Process Subphase - In Preparation\r\n",
-                        "type": "string",
-                        "maxLength": 2
+                        "type": "string"
                     },
                     "MaintProcgPhseCtrlActvtnDesc": {
                         "description": "# Definition\r\n\r\nThis text appears when fixed values are displayed in the F4 help. It explains the possible input values.\r\n\r\nSee\r\n - **Task-Oriented Instructions**\r\n - **Reference Documentation for Semantic Properties of Domains**",
-                        "type": "string",
-                        "maxLength": 60
+                        "type": "string"
                     }
                 }
             },
@@ -904,13 +902,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -919,13 +915,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -934,13 +928,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -949,13 +941,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -964,13 +954,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -979,13 +967,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -994,13 +980,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -1009,13 +993,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -1024,13 +1006,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -1039,13 +1019,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -1054,13 +1032,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             },
@@ -1069,13 +1045,11 @@
                 "properties": {
                     "MaintenanceOrder": {
                         "description": "# Definition\r\n\r\nKey that uniquely identifies an **order** within a **client**.",
-                        "type": "string",
-                        "maxLength": 12
+                        "type": "string"
                     },
                     "MaintenanceOrderType": {
                         "description": "# Definition\r\n\r\nKey that differentiates **orders** according to their purpose.\r\n\r\n# Use\r\n\r\nThe order type contains a range of parameters which affect the way the order is processed.\r\n\r\nFor example, using the order type, you can specify\r\n - The **number ranges** to be used for the orders\r\n - Which criteria are used when selecting a **routing**\r\n - How the order is to be costed.",
-                        "type": "string",
-                        "maxLength": 4
+                        "type": "string"
                     }
                 }
             }
